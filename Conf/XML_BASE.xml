@@ -1,0 +1,18 @@
+<database_configurations>
+    <ibm_db2_database>
+        <name>IBM_DB2</name>
+		<hostdb2>10.65.18.81</hostdb2>
+		<portdb2>50005</portdb2>
+		<database_namedb2>IBMdb2</database_namedb2>
+		<userdb2>commercedb2</userdb2>
+		<passworddb2>IBM123</passworddb2>
+    </ibm_db2_database>
+    <postgresql_database>
+        <name>PostgreSQL</name>
+		<host>10.45.12.156</host>
+		<port>5432</port>
+		<database_name>tienda</database_name>
+		<user>PostgresDB</user>
+		<password>195E6CA49ED50899D9953342602637487096673F</password>
+    </postgresql_database>
+</database_configurations>
